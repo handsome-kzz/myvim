@@ -53,8 +53,6 @@ let g:SnazzyTransparent = 1
 
 
 
-
-
 "nerdtree  显示所在目录
 map ff :NERDTreeToggle<CR>
 
